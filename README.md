@@ -1,9 +1,9 @@
 # Quiz
-This is a quiz app built with django and vuejs. It is a group assignment
+This is a quiz app built with django and javascript. It is a group assignment
 
 ## Features
     1. Every authenticated user can create a quiz
-    2. Every authenticated can answer a quiz only once
+    2. Every authenticated user can answer a quiz only once
     3. Scores gotten for a right answer is subject to the time it took to answer the question
     4. Quizzes are conducted by the frontend. The backend only stores the data involved
 
@@ -27,4 +27,5 @@ To contribute, make sure you clone the dev branch.
     ```
 4. Wait for the server to start and open your browser to `127.0.0.1:8000` or `localhost:8000` 
 5. Test the stuff out mate...
+6. The system is run at [https://komlearn.pythonanywhere.com](https://komlearn.pythonanywhere.com)
 6. Note that all contributions should be pushed to the `dev` branch.
